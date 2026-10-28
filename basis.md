@@ -1,1 +1,3 @@
-ANONSEX; Tasking: Create a seperate md file for documenting the most maliscious ANONSEC type-exploits and processes to pwn or exploit infrastructure in some form. This can be Defacing, extracting, access, quite literally any exploit. This has to be complex and relative to current modern infrastructure and bypasses, eg. extension to mitre, overflow, memory, IPS bypass, EVERYTHING. Lethal ANONSEC. This has to be both a guide, list, and playbook for a future kali tool.
+I need you to plan to make this lethal GHOST, from an ANONSEC standpoint of usefulness. We need full attack chain.
+
+Plan this.
